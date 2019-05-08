@@ -32,4 +32,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# dependencies
+/node_modules
+
 # End of https://www.gitignore.io/api/sass,windows

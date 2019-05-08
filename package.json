@@ -1,0 +1,23 @@
+{
+  "name": "responsive---start-to-finish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharinda1/Responsive---start-to-finish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tharinda1/Responsive---start-to-finish/issues"
+  },
+  "homepage": "https://github.com/tharinda1/Responsive---start-to-finish#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
